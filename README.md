@@ -1,2 +1,2 @@
 # OdinRecipe
-Just html, first TheOdinProject project
+Just html, first OdinProject project
